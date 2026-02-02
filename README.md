@@ -260,7 +260,7 @@ Para agregar nuevas pruebas:
 
 ## Autor
 
-**Estudiante**: [Tu Nombre]
+**Estudiante**: [Keonjae Lee]
 **Materia**: Metodologías de Desarrollo de Software
 **NRC**: 30746
 **Docente**: Ing. John Javier Cruz Garzón Mgtr.
